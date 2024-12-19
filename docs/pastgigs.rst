@@ -11,8 +11,8 @@ NFR for Giant Planets (July - Dec. 2019)
 | Radiative transfer calculations for the design of a Net Flux Radiometer instrument proposal on a future entry probe to one of the two Ice Giants.
 
 
-D/H in 67P (Nov. 2017 - March 2018)
------------------------------------
+Ortho-to-Para in H2O in 67P (Nov. 2017 - March 2018)
+----------------------------------------------------
 
 | **Observatoire de Paris - PSL, France**
 | Analysis of the Rosetta / VIRTIS-H data to derive the Ortho-to-Para ratio in water vapour in the coma of comet 67P/Churyumov-Gerasimenko.
