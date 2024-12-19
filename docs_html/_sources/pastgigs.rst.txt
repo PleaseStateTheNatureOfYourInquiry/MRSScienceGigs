@@ -4,20 +4,26 @@ Past Science Gigs
 =================
 
 
-Venus Express
--------------
+NFR for Giant Planets (2019)
+----------------------------
 
 
-
-Venus Twilight Experiment
--------------------------
-
-
-D/H in P/67
------------
+D/H in P/67 (2018)
+-------------------
 
 
-NFR for Giant Planets
+Venus Twilight Experiment (2015)
+--------------------------------
+
+Venus Express (2015)
 ---------------------
+
+
+
+
+
+
+
+
 
 
